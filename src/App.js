@@ -58,7 +58,7 @@ const App = () => (
 );
 
 const BackgroundContainer = styled.div`
-  background-image: url('');
+  background-image: url('./assets/teski.png');
   background-size: 30%; /* Change 'cover' to 'contain', '100%', or specific dimensions as needed */
   background-repeat: no-repeat;
   background-position: center bottom 20%;
