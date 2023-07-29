@@ -15,7 +15,7 @@ const About = () => (
   <Content>
     <h1>Meistä</h1>
     <p>
-      Turun teknillinen skimbakerho! kertokaa ny jotai itestänne vittu
+      Turun skimbakerho! kertokaa ny jotai itestänne vittu
     </p>
   </Content>
 );
