@@ -31,6 +31,7 @@ const Contact = () => (
 const App = () => (
   <Router>
     <BackgroundContainer>
+    <BackgroundContainer>
       <Header>
         <Logo to="/">Teski</Logo>
         <Nav>
@@ -54,6 +55,7 @@ const App = () => (
         <Route path="/contact" element={<Contact />} />
       </Routes>
     </BackgroundContainer>
+    <BackgroundContainer>
   </Router>
 );
 
