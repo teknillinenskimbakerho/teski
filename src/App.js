@@ -31,7 +31,6 @@ const Contact = () => (
 const App = () => (
   <Router>
     <BackgroundContainer>
-    <BackgroundContainer>
       <Header>
         <Logo to="/">Teski</Logo>
         <Nav>
@@ -55,12 +54,11 @@ const App = () => (
         <Route path="/contact" element={<Contact />} />
       </Routes>
     </BackgroundContainer>
-    </BackgroundContainer>
   </Router>
 );
 
 const BackgroundContainer = styled.div`
-  background-image: url('https://github.com/teknillinenskimbakerho/teski/blob/gh-pages/docs/assets/teski.png.png?raw=true');
+  background-image: url(/teski.png);
   background-size: 30%; /* Change 'cover' to 'contain', '100%', or specific dimensions as needed */
   background-repeat: no-repeat;
   background-position: center bottom 20%;
