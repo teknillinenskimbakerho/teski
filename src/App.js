@@ -55,7 +55,7 @@ const App = () => (
         <Route path="/contact" element={<Contact />} />
       </Routes>
     </BackgroundContainer>
-    <BackgroundContainer>
+    </BackgroundContainer>
   </Router>
 );
 
