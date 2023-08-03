@@ -1,10 +1,19 @@
 {
   "files": {
-    "main.js": "/teski/static/js/main.b07ed3fb.js",
+    "main.css": "/teski/static/css/main.a6886250.css",
+    "main.js": "/teski/static/js/main.d0c9c910.js",
+    "static/media/poppins-devanagari-400-normal.woff": "/teski/static/media/poppins-devanagari-400-normal.0e11b62db931f85340d4.woff",
+    "static/media/poppins-devanagari-400-normal.woff2": "/teski/static/media/poppins-devanagari-400-normal.64d5f06ee726edd58ca3.woff2",
+    "static/media/poppins-latin-400-normal.woff": "/teski/static/media/poppins-latin-400-normal.cda9c93f49237f11c766.woff",
+    "static/media/poppins-latin-400-normal.woff2": "/teski/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff": "/teski/static/media/poppins-latin-ext-400-normal.8cc52669c8e8a6735699.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/teski/static/media/poppins-latin-ext-400-normal.4f38b4331448d2313adc.woff2",
     "index.html": "/teski/index.html",
-    "main.b07ed3fb.js.map": "/teski/static/js/main.b07ed3fb.js.map"
+    "main.a6886250.css.map": "/teski/static/css/main.a6886250.css.map",
+    "main.d0c9c910.js.map": "/teski/static/js/main.d0c9c910.js.map"
   },
   "entrypoints": [
-    "static/js/main.b07ed3fb.js"
+    "static/css/main.a6886250.css",
+    "static/js/main.d0c9c910.js"
   ]
 }
