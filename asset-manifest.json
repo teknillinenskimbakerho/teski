@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/teski/static/js/main.249b90e5.js",
+    "main.js": "/teski/static/js/main.c4cb58e1.js",
     "index.html": "/teski/index.html",
-    "main.249b90e5.js.map": "/teski/static/js/main.249b90e5.js.map"
+    "main.c4cb58e1.js.map": "/teski/static/js/main.c4cb58e1.js.map"
   },
   "entrypoints": [
-    "static/js/main.249b90e5.js"
+    "static/js/main.c4cb58e1.js"
   ]
 }
